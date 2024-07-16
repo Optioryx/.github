@@ -1,6 +1,6 @@
-[![image](https://user-images.githubusercontent.com/43721714/227163860-e27cb702-a18f-4d82-9f35-435aebc04f12.png)](https://www.optioryx.com/)
-# Optioryx - AI Platform for Logistics Optimization
+<img src="https://lirp.cdn-website.com/c10be9aa/dms3rep/multi/opt/Optiorix+full+transparant+background+-+blue-c6d680b3-1920w.png" width="530" />
 
+# AI Platform for Logistics Optimization
 Welcome to Optioryx's GitHub page! Here, you will find information about our integrated AI platform to optimize your logistic operations.
 
 ## Overview
