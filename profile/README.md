@@ -1,4 +1,4 @@
-<img src="https://lirp.cdn-website.com/c10be9aa/dms3rep/multi/opt/Optiorix+full+transparant+background+-+blue-c6d680b3-1920w.png" width="535em" />
+<img src="https://cdn.prod.website-files.com/686b83184494dac66999bb28/686bc7706a37640fe917b751_logo-optioryx.svg" width="535em" />
 
 Optioryx adds the missing intelligence layer on top of your WMS, TMS, or ERP system to boost warehousing and shipping operations.
 
